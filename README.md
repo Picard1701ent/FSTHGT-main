@@ -9,7 +9,6 @@ The code follows the paper-level method components:
 - FAHGConv with node total flow, edge mean flow, node-to-edge flow weighting, and edge-to-node flow weighting.
 - Spatial information embedding from random walk encoding and normalized Laplacian encoding.
 - Stacked FAHGConv and temporal self-attention layers with an MLP output head.
-- MAE loss for training and MAE, MAPE, RMSE for evaluation.
 
 ## Structure
 
